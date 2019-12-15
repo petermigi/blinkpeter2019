@@ -6,6 +6,6 @@
     "navigationBarBackgroundColor": "#FFFFFF",
     "navigationBarTitleText": "林间有风",
     "navigationBarTextStyle": "black"
-  }
-  
+  },
+  "sitemapLocation": "sitemap.json"
 }

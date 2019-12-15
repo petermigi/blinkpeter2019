@@ -4,6 +4,7 @@
   display: inline-flex;
   font-display: row;
   padding: 10rpx;
+  width: 90rpx;
 }
 
 .container image{
